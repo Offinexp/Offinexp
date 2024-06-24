@@ -1,19 +1,22 @@
 
 
 ## Oii, eu sou a Fernanda Vieira 👋
-#
-<h3 align="left">Sobre mim:</h3>
-#
-#
+
+Sobre mim:
+
 - 🔭 Hoje eu trabalho com Suporte
 - 🌱 Estou estudando Python, SQL, JAVA
-#
 
 #
 <p align="center">Atualmente estou cursando MBA em Engenharia de Software pela USP e recentemente finalizei meu curso de Análise e Desenvolvimento de Sistemas na UNIP (Universidade Paulista).
 Me interesso pela área de Quality Assurance (QA), automatização de processos e desenvolvimento low-code com Power Apps.
 Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 #
+
+#
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=offinexp&show_icons=true&theme=neon)
+#
+
 
 #
 <h3 align="left">Entre em contato comigo!</h3>
@@ -24,6 +27,3 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)]([https://www.instagram.com/offinexp/])
 
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=offinexp&show_icons=true&theme=neon)
-#
-
