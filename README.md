@@ -4,11 +4,12 @@
 
 Sobre mim:
 
-- 🔭 Hoje eu trabalho com Suporte
-- 🌱 Estou estudando Python, SQL, JAVA
+- 🔭 Hoje eu trabalho com Suporte e QA
+- 📚 Estou estudando Python, SQL, JAVA
+- 💻 cursando MBA em Engenharia de Software (USP)
 
 #
-<p align="center">Atualmente estou cursando MBA em Engenharia de Software pela USP e recentemente finalizei meu curso de Análise e Desenvolvimento de Sistemas na UNIP (Universidade Paulista).
+Formada no curso de Análise e Desenvolvimento de Sistemas na UNIP.
 Me interesso pela área de Quality Assurance (QA), automatização de processos e desenvolvimento low-code com Power Apps.
 Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 #
