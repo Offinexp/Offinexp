@@ -1,8 +1,10 @@
 
 
 ## Oii, eu sou a Fernanda Vieira 👋
-
+#
 <h3 align="left">Sobre mim:</h3>
+#
+#
 - 🔭 Hoje eu trabalho com Suporte
 - 🌱 Estou estudando Python, SQL, JAVA
 #
@@ -15,14 +17,13 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
 
 #
 <h3 align="left">Entre em contato comigo!</h3>
+#
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:fernanda.offinexp@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]([https://www.linkedin.com/in/fernandavcruz/])
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)]([https://www.instagram.com/offinexp/])
 
-
-<h3 align="left">My Stack ~</h3>
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=offinexp&show_icons=true&theme=neon)
-
+#
 
