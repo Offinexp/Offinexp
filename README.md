@@ -1,4 +1,4 @@
-## Olá eu sou a Fernanda Vieira 👋
+## Oii, eu sou a Fernanda Vieira 👋
 
 - 🔭 Hoje eu trabalho com Suporte
 - 🌱 Estou estudando Python, SQL, JAVA
