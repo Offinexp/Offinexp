@@ -9,11 +9,10 @@ Sobre mim:
 - 💻 Cursando MBA em Engenharia de Software (USP)
 
 #
-Formada em Análise e Desenvolvimento de Sistemas na UNIP.
-Me interesso pela área de Quality Assurance (QA), automatização de processos e desenvolvimento low-code com Power Apps.
-Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
+Sou formada em Análise e Desenvolvimento de Sistemas pela UNIP e tenho grande interesse nas áreas de Quality Assurance (QA), automação de processos e desenvolvimento low-code com Power Apps. Estou constantemente me atualizando na área de tecnologia, pois adoro aprender e usar meus conhecimentos para criar soluções inovadoras.
 #
-<h3 align="left">My Stack ~</h3>
+
+Minhas tecnologias:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
