@@ -20,5 +20,3 @@ Minhas tecnologias:
 </div>
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=offinexp&show_icons=true&theme=neon)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/offinexp/github-readme-stats)
-#
