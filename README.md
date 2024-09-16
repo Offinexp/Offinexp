@@ -2,7 +2,7 @@
 
 Sobre mim:
 
-- 🔭 Hoje eu trabalho com Suporte e QA
+- 🔭 Hoje eu trabalho com QA e Automações
 - 📚 Estou estudando Python, SQL, JAVA
 - 💻 Cursando MBA em Engenharia de Software (USP)
 
