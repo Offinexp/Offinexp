@@ -6,7 +6,7 @@ Sobre mim:
 - 📚 Estou estudando Python, SQL, JAVA
 - 💻 Cursando MBA em Engenharia de Software (USP)
 
-Sou formada em Análise e Desenvolvimento de Sistemas pela UNIP e tenho grande interesse nas áreas de Quality Assurance (QA), automação de processos e desenvolvimento low-code com Power Apps. Estou constantemente me atualizando na área de tecnologia, pois adoro aprender e usar meus conhecimentos para criar soluções inovadoras.
+Estou constantemente me atualizando na área de tecnologia, pois adoro aprender e usar meus conhecimentos para criar soluções inovadoras.
 
 Minhas tecnologias:
 
